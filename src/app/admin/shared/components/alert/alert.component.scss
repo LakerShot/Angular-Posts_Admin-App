@@ -1,0 +1,10 @@
+.alert-wrap {
+  position: fixed;
+  top: 60px;
+  right: 40px;
+  max-width: 200px;
+  
+  .alert {
+    border-radius: .3rem;
+  }
+}
