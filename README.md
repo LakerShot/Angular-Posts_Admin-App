@@ -36,7 +36,7 @@ export const environment: Environment = {
   fbDbUrl: 'PAST YOUR FIREBASE_DATABESE_URL HERE'
 }
 
-# go to enviroments/enviroment.prod.ts and make the same
+# go to enviroments/enviroment.prod.ts and do the same things
 ```
 #### Good job now you're Admin. You can add/remove/finde/edit posts and also read them 
 ## Contributing
